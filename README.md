@@ -67,7 +67,25 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 
 <br><br>
 
-#### 📈 PakDailyLive.pk — Daily Live Rates Pakistan
+##### 🧮 SmartCalculator.pk — Scientific Calculator
+<a href="https://shahabkhan4636.github.io/SmartCalculator.pk/" target="_blank"><img src="images/smartcalculator.png" alt="SmartCalculator.pk Preview" width="90%"/></a>
+<br>
+
+#### 🐍 SnakeGame.pk — Classic Snake Game
+<a href="https://shahabkhan4636.github.io/SnakeGame.pk/" target="_blank"><img src="images/snakegame.png" alt="SnakeGame.pk Preview" width="90%"/></a>
+<br>
+
+#### 🌤️ WeatherApp.pk — Live Weather
+<a href="https://shahabkhan4636.github.io/WeatherApp.pk/" target="_blank"><img src="images/weatherapp.png" alt="WeatherApp.pk Preview" width="90%"/></a>
+<br>
+
+#### ✅ TodoApp.pk — Todo List
+<a href="https://shahabkhan4636.github.io/TodoApp.pk/" target="_blank"><img src="images/todoapp.png" alt="TodoApp.pk Preview" width="90%"/></a>
+<br>
+
+---
+
+### 📈 PakDailyLive.pk — Daily Live Rates Pakistan
 <a href="https://pakdailylivepk.netlify.app/" target="_blank"><img src="images/pakdailylive.png" alt="PakDailyLive.pk Preview" width="90%"/></a>
 <br>
 <em>Gold Rate Rs. 351,800 | USD to PKR Rs. 280.25 | Petrol | Namaz Time | Qibla 242° SW</em>
