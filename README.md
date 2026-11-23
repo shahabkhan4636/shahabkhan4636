@@ -42,10 +42,15 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 | **2** | **📈 PakDailyLive.pk** <br> *Daily Live Rates Pakistan* | Live Gold Rate Today, USD to PKR, Petrol Price, Namaz Time (Karachi/Lahore/Islamabad), Qibla Compass, Tasbih Counter | `JavaScript` `Live APIs` `PWA` | [**▶️ Visit Live**](https://pakdailylivepk.netlify.app/) |
 | **3** | **🖼️ ImageTools.pk** <br> *8 Free Image Tools* | Background Remover (No Watermark), Image Compressor, Passport Size Photo Maker (NADRA CNIC), Image Resizer, JPG to PNG, Image to PDF, Add Urdu Text, Blur Background | `Canvas API` `jsPDF` | [**▶️ Visit Live**](https://imagetoolsbyshahab.netlify.app/) |
 | **4** | **📥 VideoDownloader.pk** <br> *TikTok No Watermark* | TikTok Video Downloader HD No Watermark, Instagram Reels, Facebook Video HD, YouTube Shorts Thumbnail, WhatsApp Status Saver | `TikWM API` `PWA` | [**▶️ Visit Live**](https://videodownloaderbyshahab.netlify.app/) |
+| **5** | **🧮 SmartCalculator.pk** <br> *Scientific Calculator* | Free scientific calculator — sin/cos/tan, log, √, π, keyboard support, safe parser, works offline | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/SmartCalculator.pk/) |
+| **6** | **🐍 SnakeGame.pk** <br> *Classic Snake Game* | Snake game in browser — keyboard + mobile controls, high scores, increasing speed, pause | `Canvas API` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/SnakeGame.pk/) |
+| **7** | **🌤️ WeatherApp.pk** <br> *Live Weather App* | Live weather for any city — temperature, humidity, wind & 5-day forecast via Open-Meteo API | `Fetch API` `Open-Meteo` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/WeatherApp.pk/) |
+| **8** | **✅ TodoApp.pk** <br> *Todo List App* | Add, edit, complete & filter tasks — auto-saved in browser with localStorage, no sign-up | `JavaScript` `localStorage` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/TodoApp.pk/) |
+| **9** | **👨‍💻 Portfolio** <br> *Personal Portfolio* | My personal portfolio website showcasing all projects, skills & contact | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/Portfolio/) |
 
 <div align="center">
 
-**✨ All tools are FREE — No Signup | No Watermark | Works on Mobile ✨**
+**✨ All 8 projects are FREE — No Signup | No Watermark | Works on Mobile ✨**
 
 </div>
 
