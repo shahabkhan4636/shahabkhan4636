@@ -38,10 +38,10 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 
 | # | Project | What it does | Tech | Live Demo |
 |---|---------|--------------|------|-----------|
-| **1** | **🔥 ViralTools.pk** <br> *13 Viral Tools in One* | Stylish Name Generator, Fancy Text, Love Calculator, YouTube Thumbnail Downloader, Password Generator, Age & BMI Calculator, QR Code, Hashtags, Color Picker, Voice Tools & more | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://viraltoolsbyshahab.netlify.app/) |
-| **2** | **📈 PakDailyLive.pk** <br> *Daily Live Rates Pakistan* | Live Gold Rate Today, USD to PKR, Petrol Price, Namaz Time (Karachi/Lahore/Islamabad), Qibla Compass, Tasbih Counter | `JavaScript` `Live APIs` `PWA` | [**▶️ Visit Live**](https://pakdailylivepk.netlify.app/) |
-| **3** | **🖼️ ImageTools.pk** <br> *8 Free Image Tools* | Background Remover (No Watermark), Image Compressor, Passport Size Photo Maker (NADRA CNIC), Image Resizer, JPG to PNG, Image to PDF, Add Urdu Text, Blur Background | `Canvas API` `jsPDF` | [**▶️ Visit Live**](https://imagetoolsbyshahab.netlify.app/) |
-| **4** | **📥 VideoDownloader.pk** <br> *TikTok No Watermark* | TikTok Video Downloader HD No Watermark, Instagram Reels, Facebook Video HD, YouTube Shorts Thumbnail, WhatsApp Status Saver | `TikWM API` `PWA` | [**▶️ Visit Live**](https://videodownloaderbyshahab.netlify.app/) |
+| **1** | **🔥 ViralTools.pk** <br> *13 Viral Tools in One* | Stylish Name Generator, Fancy Text, Love Calculator, YouTube Thumbnail Downloader, Password Generator, Age & BMI Calculator, QR Code, Hashtags, Color Picker, Voice Tools & more | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://viraltools-pk.netlify.app/) |
+| **2** | **📈 PakDailyLive.pk** <br> *Daily Live Rates Pakistan* | Live Gold Rate Today, USD to PKR, Petrol Price, Namaz Time (Karachi/Lahore/Islamabad), Qibla Compass, Tasbih Counter | `JavaScript` `Live APIs` `PWA` | [**▶️ Visit Live**](https://pakdailylive-pk.netlify.app/) |
+| **3** | **🖼️ ImageTools.pk** <br> *8 Free Image Tools* | Background Remover (No Watermark), Image Compressor, Passport Size Photo Maker (NADRA CNIC), Image Resizer, JPG to PNG, Image to PDF, Add Urdu Text, Blur Background | `Canvas API` `jsPDF` | [**▶️ Visit Live**](https://imagetools-pk.netlify.app/) |
+| **4** | **📥 VideoDownloader.pk** <br> *TikTok No Watermark* | TikTok Video Downloader HD No Watermark, Instagram Reels, Facebook Video HD, YouTube Shorts Thumbnail, WhatsApp Status Saver | `TikWM API` `PWA` | [**▶️ Visit Live**](https://videodownloader-pk.netlify.app/) |
 | **5** | **🧮 SmartCalculator.pk** <br> *Scientific Calculator* | Free scientific calculator — sin/cos/tan, log, √, π, keyboard support, safe parser, works offline | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/SmartCalculator.pk/) |
 | **6** | **🐍 SnakeGame.pk** <br> *Classic Snake Game* | Snake game in browser — keyboard + mobile controls, high scores, increasing speed, pause | `Canvas API` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/SnakeGame.pk/) |
 | **7** | **🌤️ WeatherApp.pk** <br> *Live Weather App* | Live weather for any city — temperature, humidity, wind & 5-day forecast via Open-Meteo API | `Fetch API` `Open-Meteo` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/WeatherApp.pk/) |
@@ -65,7 +65,7 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 <div align="center">
 
 #### 🔥 ViralTools.pk — 13 Tools in 1
-<a href="https://viraltoolsbyshahab.netlify.app/" target="_blank"><img src="images/viraltools.png" alt="ViralTools.pk Preview" width="90%"/></a>
+<a href="https://viraltools-pk.netlify.app/" target="_blank"><img src="images/viraltools.png" alt="ViralTools.pk Preview" width="90%"/></a>
 <br>
 <em>Stylish Names, Fancy Text, YT Thumbnail, QR, Password & more — All in one dashboard</em>
 
@@ -108,21 +108,21 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 ---
 
 ### 📈 PakDailyLive.pk — Daily Live Rates Pakistan
-<a href="https://pakdailylivepk.netlify.app/" target="_blank"><img src="images/pakdailylive.png" alt="PakDailyLive.pk Preview" width="90%"/></a>
+<a href="https://pakdailylive-pk.netlify.app/" target="_blank"><img src="images/pakdailylive.png" alt="PakDailyLive.pk Preview" width="90%"/></a>
 <br>
 <em>Gold Rate Rs. 351,800 | USD to PKR Rs. 280.25 | Petrol | Namaz Time | Qibla 242° SW</em>
 
 <br><br>
 
 #### 🖼️ ImageTools.pk — 8 Image Tools
-<a href="https://imagetoolsbyshahab.netlify.app/" target="_blank"><img src="images/imagetools.png" alt="ImageTools.pk Preview" width="90%"/></a>
+<a href="https://imagetools-pk.netlify.app/" target="_blank"><img src="images/imagetools.png" alt="ImageTools.pk Preview" width="90%"/></a>
 <br>
 <em>BG Remover No Watermark, Passport Photo NADRA, Compressor, Resizer — Before → After</em>
 
 <br><br>
 
 #### 📥 VideoDownloader.pk — TikTok No Watermark
-<a href="https://videodownloaderbyshahab.netlify.app/" target="_blank"><img src="images/videodownloader.png" alt="VideoDownloader.pk Preview" width="90%"/></a>
+<a href="https://videodownloader-pk.netlify.app/" target="_blank"><img src="images/videodownloader.png" alt="VideoDownloader.pk Preview" width="90%"/></a>
 <br>
 <em>TikTok, Instagram Reels, Facebook HD — Paste Link → Download (HD) — 2M+ Videos Downloaded</em>
 
@@ -190,7 +190,7 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahabkhanprofessional@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahabkhan4636)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://viraltoolsbyshahab.netlify.app/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://viraltools-pk.netlify.app/)
 
 **📧 Email:** shahabkhanprofessional@gmail.com  
 **📍 Location:** Islamabad, Pakistan  
