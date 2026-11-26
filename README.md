@@ -47,10 +47,14 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 | **7** | **🌤️ WeatherApp.pk** <br> *Live Weather App* | Live weather for any city — temperature, humidity, wind & 5-day forecast via Open-Meteo API | `Fetch API` `Open-Meteo` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/WeatherApp.pk/) |
 | **8** | **✅ TodoApp.pk** <br> *Todo List App* | Add, edit, complete & filter tasks — auto-saved in browser with localStorage, no sign-up | `JavaScript` `localStorage` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/TodoApp.pk/) |
 | **9** | **👨‍💻 Portfolio** <br> *Personal Portfolio* | My personal portfolio website showcasing all projects, skills & contact | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/Portfolio/) |
+| **10** | **📝 QuizApp.pk** <br> *MCQ Quiz App* | Fun quiz — Programming, Pakistan GK, Math & General Knowledge, timer, score & results | `HTML` `CSS` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/QuizApp.pk/) |
+| **11** | **🎮 TicTacToe.pk** <br> *Tic-Tac-Toe vs AI* | Play against unbeatable minimax AI, easy/hard modes, score tracking | `JavaScript` `Minimax` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/TicTacToe.pk/) |
+| **12** | **🖌️ DrawingApp.pk** <br> *Online Drawing* | Draw with colors & brushes, eraser, download art as PNG, touch support | `Canvas API` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/DrawingApp.pk/) |
+| **13** | **💱 CurrencyConverter.pk** <br> *Live Currency Converter* | Real-time conversion for 15 currencies via Frankfurter API, swap & quick pairs | `Fetch API` `Frankfurter API` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/CurrencyConverter.pk/) |
 
 <div align="center">
 
-**✨ All 8 projects are FREE — No Signup | No Watermark | Works on Mobile ✨**
+**✨ All 13 projects are FREE — No Signup | No Watermark | Works on Mobile ✨**
 
 </div>
 
@@ -81,6 +85,24 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 
 #### ✅ TodoApp.pk — Todo List
 <a href="https://shahabkhan4636.github.io/TodoApp.pk/" target="_blank"><img src="images/todoapp.png" alt="TodoApp.pk Preview" width="90%"/></a>
+<br>
+
+---
+
+#### 📝 QuizApp.pk — MCQ Quiz
+<a href="https://shahabkhan4636.github.io/QuizApp.pk/" target="_blank"><img src="images/quizapp.png" alt="QuizApp.pk Preview" width="90%"/></a>
+<br>
+
+#### 🎮 TicTacToe.pk — vs AI
+<a href="https://shahabkhan4636.github.io/TicTacToe.pk/" target="_blank"><img src="images/tictactoe.png" alt="TicTacToe.pk Preview" width="90%"/></a>
+<br>
+
+#### 🖌️ DrawingApp.pk — Draw Online
+<a href="https://shahabkhan4636.github.io/DrawingApp.pk/" target="_blank"><img src="images/drawingapp.png" alt="DrawingApp.pk Preview" width="90%"/></a>
+<br>
+
+#### 💱 CurrencyConverter.pk — Live Rates
+<a href="https://shahabkhan4636.github.io/CurrencyConverter.pk/" target="_blank"><img src="images/currencyconverter.png" alt="CurrencyConverter.pk Preview" width="90%"/></a>
 <br>
 
 ---
