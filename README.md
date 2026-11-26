@@ -51,10 +51,15 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 | **11** | **🎮 TicTacToe.pk** <br> *Tic-Tac-Toe vs AI* | Play against unbeatable minimax AI, easy/hard modes, score tracking | `JavaScript` `Minimax` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/TicTacToe.pk/) |
 | **12** | **🖌️ DrawingApp.pk** <br> *Online Drawing* | Draw with colors & brushes, eraser, download art as PNG, touch support | `Canvas API` `JavaScript` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/DrawingApp.pk/) |
 | **13** | **💱 CurrencyConverter.pk** <br> *Live Currency Converter* | Real-time conversion for 15 currencies via Frankfurter API, swap & quick pairs | `Fetch API` `Frankfurter API` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/CurrencyConverter.pk/) |
+| **14** | **🧾 InvoicePro.pk** <br> *Freelancer Invoice Generator* | Live A4 preview, 8 currencies, tax & discount, amount in words, invoice history, instant PDF | `JavaScript` `localStorage` `Print CSS` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/InvoicePro.pk/) |
+| **15** | **💼 ResumeBuilder.pk** <br> *Professional CV Maker* | 3 templates, live A4 preview, resume strength score, instant PDF download, no watermark | `JavaScript` `Print CSS` `FileReader` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/ResumeBuilder.pk/) |
+| **16** | **💰 MoneyTracker.pk** <br> *Expense & Budget Tracker* | Income/expense tracking, per-category budgets, SVG donut & bar charts, CSV export/import | `JavaScript` `SVG` `CSV Parser` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/MoneyTracker.pk/) |
+| **17** | **⌨️ TypingMaster.pk** <br> *Typing Speed Test* | Live WPM & accuracy, 3 modes incl. code, per-character highlighting, progress chart | `JavaScript` `SVG` `localStorage` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/TypingMaster.pk/) |
+| **18** | **🏦 EMICalculator.pk** <br> *Loan EMI Calculator* | Full amortization schedule, extra-payment savings, yearly view, CSV export, Excel-verified maths | `JavaScript` `SVG` `Finance` | [**▶️ Visit Live**](https://shahabkhan4636.github.io/EMICalculator.pk/) |
 
 <div align="center">
 
-**✨ All 13 projects are FREE — No Signup | No Watermark | Works on Mobile ✨**
+**✨ All 18 projects are FREE — No Signup | No Watermark | Works on Mobile ✨**
 
 </div>
 
@@ -103,6 +108,21 @@ All projects are **live, fast, and mobile-friendly**. Click to try!
 
 #### 💱 CurrencyConverter.pk — Live Rates
 <a href="https://shahabkhan4636.github.io/CurrencyConverter.pk/" target="_blank"><img src="images/currencyconverter.png" alt="CurrencyConverter.pk Preview" width="90%"/></a>
+
+#### 🧾 InvoicePro.pk — Freelancer Invoice Generator
+<a href="https://shahabkhan4636.github.io/InvoicePro.pk/" target="_blank"><img src="images/invoicepro.png" alt="InvoicePro.pk Preview" width="90%"/></a>
+
+#### 💼 ResumeBuilder.pk — Professional CV Maker
+<a href="https://shahabkhan4636.github.io/ResumeBuilder.pk/" target="_blank"><img src="images/resumebuilder.png" alt="ResumeBuilder.pk Preview" width="90%"/></a>
+
+#### 💰 MoneyTracker.pk — Expense & Budget Tracker
+<a href="https://shahabkhan4636.github.io/MoneyTracker.pk/" target="_blank"><img src="images/moneytracker.png" alt="MoneyTracker.pk Preview" width="90%"/></a>
+
+#### ⌨️ TypingMaster.pk — Typing Speed Test
+<a href="https://shahabkhan4636.github.io/TypingMaster.pk/" target="_blank"><img src="images/typingmaster.png" alt="TypingMaster.pk Preview" width="90%"/></a>
+
+#### 🏦 EMICalculator.pk — Loan EMI Calculator
+<a href="https://shahabkhan4636.github.io/EMICalculator.pk/" target="_blank"><img src="images/emicalculator.png" alt="EMICalculator.pk Preview" width="90%"/></a>
 <br>
 
 ---
